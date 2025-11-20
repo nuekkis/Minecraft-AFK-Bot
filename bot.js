@@ -2,9 +2,9 @@ const mineflayer = require('mineflayer');
 const config = require('./config.json');
 
 const bot = mineflayer.createBot({
-  host: config.serverHost,
-  port: config.serverPort,
-  username: config.botUsername,
+  host: config.smpYayini.aternos.me,
+  port: config.43150,
+  username: config.SMPbot,
   auth: 'offline',
   version: false,
   viewDistance: config.botChunk
@@ -31,7 +31,7 @@ function movementCycle() {
     case 0:
       bot.setControlState('forward', true);
       bot.setControlState('back', false);
-      bot.setControlState('jump', false);
+      bot.setControlState('jump', true);
       break;
     case 1:
       bot.setControlState('forward', false);
