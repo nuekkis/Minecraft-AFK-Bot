@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "IceLaterBot",
+  "serverHost": "smpYayini.aternos.me",
+  "serverPort": 43150,
+  "botUsername": "SMPbot",
   "botChunk": 1
 }
