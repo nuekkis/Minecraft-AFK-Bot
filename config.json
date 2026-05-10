@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": unstablesmp2026.mcsh.io",
+  "serverPort": 25565,
   "botUsername": "MyBot",
   "botChunk": 1
 }
