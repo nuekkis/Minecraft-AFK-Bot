@@ -1,5 +1,5 @@
 {
-  "name": "nuekkis-afk-bot",
+  "name": "modi",
   "version": "1.0.0",
   "description": "An AFK bot that moves on-site to keep Aternos servers open 24/7. Not only for Aternos but also applies for different services.",
   "main": "bot.js",
