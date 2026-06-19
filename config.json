@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": "hotsmp11.aternos.me",
+  "serverPort": 36073,
   "botUsername": "MyBot",
   "botChunk": 1
 }
