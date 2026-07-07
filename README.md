@@ -4,7 +4,7 @@
 This is a lightweight Minecraft Java AFK Bot powered by [Mineflayer](https://github.com/PrismarineJS/mineflayer). It connects to a Java server, performs basic movements to avoid AFK detection, and can be customized via a simple configuration file.
 
 <a href="https://discord.gg/SjQydGvs5p" target="_blank">
-  <img src="https://img.shields.io/badge/Join-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="300">
+  <img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="300">
 </a>
 
 # ⭐ Star this project, fork and use!
