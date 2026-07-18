@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
-  "botChunk": 1
+  "serverHost": "Jax6721.aternos.me",
+  "serverPort":25764,
+  "botUsername": "JoinSilentSMP",
+  "botChunk": 4
 }
