@@ -62,5 +62,6 @@ bot.on('error', (err) => {
   console.error('⚠️ Error:', err);
 });
 bot.on('end', () => {
-  console.log('⛔️ Bot Disconnected!');
+  console.log('⛔️ Bot Disconnected! Exiting for Railway restart...');
+  process.exit(1);  // Railway restarts the container automatically
 });
