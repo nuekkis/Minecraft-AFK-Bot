@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 const config = require('./config.json');
 
 const bot = mineflayer.createBot({
-  host: config.serverHost,
-  port: config.serverPort,
+  host: config.dynamic-9.magmanode.com,
+  port: config.25836,
   username: config.botUsername,
   auth: 'offline',
   version: false,
