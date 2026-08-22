@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 const config = require('./config.json');
 
 const bot = mineflayer.createBot({
-  host: config.serverHost,
-  port: config.serverPort,
+  host: SMP_SnS-lzlr.aternos.me
+  port:32833
   username: config.botUsername,
   auth: 'offline',
   version: false,
