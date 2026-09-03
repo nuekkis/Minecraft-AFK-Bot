@@ -2,10 +2,10 @@ const mineflayer = require('mineflayer');
 const config = require('./config.json');
 
 const bot = mineflayer.createBot({
-  host: config.serverHost,
-  port: config.serverPort,
+  host: config.NOTGJ_SMP.aternos.me,
+  port: config.23632,
   username: config.botUsername,
-  auth: 'offline',
+  auth: 'onlin',
   version: false,
   viewDistance: config.botChunk
 });
@@ -31,12 +31,12 @@ function movementCycle() {
     case 0:
       bot.setControlState('forward', true);
       bot.setControlState('back', false);
-      bot.setControlState('jump', false);
+      bot.setControlState('jump', true);
       break;
     case 1:
       bot.setControlState('forward', false);
-      bot.setControlState('back', true);
-      bot.setControlState('jump', false);
+      bot.setControlState('back', false);
+      bot.setControlState('jump', true);
       break;
     case 2:
       bot.setControlState('forward', false);
