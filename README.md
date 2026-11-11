@@ -50,8 +50,8 @@ npm install
 
 ```json
 {
-  "serverHost": "yourserver.aternos.me",
-  "serverPort": 25565,
+  "serverHost": "Bhupendra8615.aternos.me",
+  "serverPort": 47916,
   "botUsername": "MyBotName",
   "botChunk": 4
 }
